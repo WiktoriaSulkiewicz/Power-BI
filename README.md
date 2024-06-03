@@ -15,7 +15,7 @@ Raport przedstawia szczegółowe dane dotyczące pracy i zarobków w branży Dat
 Raport zawiera różnorodne filtry umożliwiające dostosowanie wyświetlanych danych według roku, lokalizacji firmy, kategorii pracy, tytułu zawodowego, poziomu doświadczenia oraz rodzaju zatrudnienia.
 
 ### Raport 2: ATP Insights
-Kliknij [tutaj](https://app.powerbi.com/groups/7fc35767-ecde-4592-a0d2-d051e0941b59/reports/f32ac366-cbda-4738-8bde-210f0fa110f3/ReportSection?experience=power-bi), aby zobaczyć pełny raport.
+Kliknij [tutaj](https://app.powerbi.com/view?r=eyJrIjoiOGVjNTFmMWEtNTg4ZS00ZTFlLWE0NTMtMDcxMTBkMTM4MDYyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9), aby zobaczyć pełny raport.
 
 #### Opis Raportu
 Raport przedstawia szczegółowe dane dotyczące zawodów i wyników w ATP. Zawiera on następujące sekcje:
