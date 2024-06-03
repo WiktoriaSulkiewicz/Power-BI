@@ -26,4 +26,4 @@ Raport przedstawia szczegółowe dane dotyczące zawodów i wyników w ATP. Zawi
 - Analiza najlepszych graczy i ich wyników w czasie.
 
 ## Autor
-- **Wiktoria Sułkiewicz** - [Twój GitHub](https://github.com/twojgithub)
+- **Wiktoria Sułkiewicz**
